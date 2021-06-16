@@ -16,7 +16,11 @@ flutter random dog project
   - android
   - web
   - windows
-- Add random dog facts Using [Dog Facts API](https://dukengn.github.io/Dog-facts-API/)
 
+- more dog pictures from
+  - [https://place.dog/](https://place.dog/)
+  - [https://random.dog/2de33931-e65c-4378-975d-955864c3a64c.mp4](https://random.dog/2de33931-e65c-4378-975d-955864c3a64c.mp4)
+
+- Add random dog facts Using [Dog Facts API](https://dukengn.github.io/Dog-facts-API/)
 
 
