@@ -1,12 +1,13 @@
 # dog
 
-random dog project
+flutter random dog project
 
 [https://dog.ceo/dog-api/documentation/random](https://dog.ceo/dog-api/documentation/random)
 
 ## Target Platform
 
-now, MacOS only
+- MacOS
+- web 
 
 ## Todos
 
